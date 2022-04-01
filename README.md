@@ -1,4 +1,4 @@
-# CALCULADORA-DE-COMBUSTIVEL-PARA-PREVER-GASTOS-EM-VEICULOS-FLEX-Gasolina-e-
+# CALCULADORA-DE-COMBUSTIVEL-PARA-PREVER-GASTOS-EM-VEICULOS-FLEX-Gasolina-e-Álcool
 
 print('\n\n===============================================================================')
 print('===============================================================================')
